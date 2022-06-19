@@ -1,0 +1,38 @@
+body{
+    font-family: 'Atma', cursive;
+    font-weight: 700;
+    background-color: bisque;
+}
+.container{
+    height: 50px;
+}
+#logo-main{
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.title-text{
+    width: 100%;
+    padding-top: 50px;
+    float: left;
+    font-size: 40pt;
+    color: #308e64;
+    text-align: center;
+    margin-top: 10px;
+}
+#book-logo{
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+hr{
+    height: 5px;
+    border:none;
+    background-color: black;
+}
